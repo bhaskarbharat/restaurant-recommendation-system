@@ -15,5 +15,5 @@ Please read about the dataset here: https://www.yelp.com/dataset/documentation/m
 ![4-collaborative-filtering-based-recommendation.jpg](https://github.com/bhaskarbharat/restaurant-recommendation-system/blob/main/images/4-collaborative-filtering-based-recommendation.jpg)
 ![5-model-architecture.jpg](https://github.com/bhaskarbharat/restaurant-recommendation-system/blob/main/images/5-model-architecture.jpg)
 
-#### Project Presentation:
+## Project Presentation:
 [![0-intro-page.jpg](https://github.com/bhaskarbharat/restaurant-recommendation-system/blob/main/images/0-intro-page.jpg)](https://drive.google.com/file/d/1BAVQf2PpnPUMcRXOcBWhQcNXgKq64Dp8/view?usp=sharing)
